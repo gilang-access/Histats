@@ -1,0 +1,1 @@
+(function() { var ad = document.createElement('script'); ad.type = 'text/javascript'; ad.async = true; ad.src = '//s10.histats.com/js15_as.js'; var sc = document.getElementsByTagName('script')[0]; sc.parentNode.insertBefore(ad, sc); })();
